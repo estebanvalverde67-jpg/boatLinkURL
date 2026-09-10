@@ -1,5 +1,6 @@
 {
-  "api_url": "http://192.168.200.17/boatlinkbdd/",
+  "api_url_local": "http://192.168.200.17/boatlinkbdd/",
+  "api_url": "https://izunomeonline.com/boatlinkbdd/",
   "version": "1.0.0",
   "maintenance": false
 }

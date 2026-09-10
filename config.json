@@ -1,5 +1,5 @@
 {
-  "api_url": "https://192.168.1.17/boatlinkbdd/",
+  "api_url": "https://192.168.200.17/boatlinkbdd/",
   "version": "1.0.0",
   "maintenance": false
 }

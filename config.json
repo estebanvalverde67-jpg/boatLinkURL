@@ -1,5 +1,6 @@
 {
-  "api_url": "http://192.168.2.126/boatlinkbdd/",
+  "api_url": "http://192.168.200.17/boatlinkbdd/",
+  "api_url_phicoms": "http://192.168.2.126/boatlinkbdd/",
   "api_url_casa": "http://192.168.200.17/boatlinkbdd/",
   "version": "1.0.0",
   "maintenance": false

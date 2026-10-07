@@ -1,7 +1,7 @@
 {
-  "api_url": "http://192.168.200.17/boatlinkbdd/",
+  "api_url": "http://192.168.200.19/boatlinkbdd/",
   "api_urls": [
-    "http://192.168.200.17/boatlinkbdd/",
+    "http://192.168.200.19/boatlinkbdd/",
     "http://192.168.2.126/boatlinkbdd/",
     "http://192.168.1.107/boatlinkbdd/"
   ],

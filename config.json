@@ -2,7 +2,7 @@
   "api_url": "http://d262be7bbe7969b5.sn.mynetname.net:8880/boatlinkbdd/",
   "api_urls": [
     "http://d262be7bbe7969b5.sn.mynetname.net:8880/boatlinkbdd/",
-    "http://192.168.2.184/flicduo/",
+    "http://192.168.2.184/boatlinkbdd/",
     "http://192.168.200.19/boatlinkbdd/",
     "http://192.168.2.126/boatlinkbdd/",
     "http://192.168.1.107/boatlinkbdd/"

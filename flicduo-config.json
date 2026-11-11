@@ -1,5 +1,6 @@
 {
   "proxy_urls": [
+    "http://d262be7bbe7969b5.sn.mynetname.net:8880/flicduo/",
     "http://192.168.2.126/flicduo/",
     "http://192.168.200.19/flicduo/",
     "http://192.168.1.107/flicduo/"

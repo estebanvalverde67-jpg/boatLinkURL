@@ -1,7 +1,9 @@
 {
   "api_urls": [
-    "http://192.168.2.126/flicethernet/api.php",
+    "http://d262be7bbe7969b5.sn.mynetname.net:8880/flicethernet/api.php",
     "http://192.168.2.184/flicethernet/api.php",
-    "http://d262be7bbe7969b5.sn.mynetname.net:8880/flicethernet/api.php"
+    "http://192.168.2.126/flicethernet/api.php",
+    "http://192.168.200.19/flicethernet/api.php",
+    "http://192.168.1.107/flicethernet/api.php"
   ]
 }
